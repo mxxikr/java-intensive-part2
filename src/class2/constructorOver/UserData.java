@@ -1,4 +1,4 @@
-package constructorOver;
+package class2.constructorOver;
 
 public class UserData {
     private String name;

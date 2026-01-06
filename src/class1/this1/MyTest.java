@@ -1,4 +1,4 @@
-package this1;
+package class1.this1;
 
 public class MyTest {
     public int data;

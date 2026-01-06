@@ -1,4 +1,4 @@
-package this1;
+package class1.this1;
 
 public class Main {
     public static void main(String[] args) {

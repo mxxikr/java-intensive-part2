@@ -1,4 +1,4 @@
-package thisAndStatic;
+package class1.thisAndStatic;
 
 public class MyTest {
     private int data;
