@@ -5,19 +5,19 @@
 
 ---
 
-## 💻 Development Environment
+### 💻 Development Environment
 
 * java 21
 * IDE IntelliJ IDEA
 
-## 🏆 실습 목표
+### 🏆 실습 목표
 
 * 객체 지향 프로그래밍의 핵심 원리인 상속과 다형성 그리고 캡슐화 완벽 이해
 * JVM 내부 구조와 메모리 관리 메커니즘을 통한 효율적인 코드 작성 능력 습득
 * 불변 객체와 다양한 클래스 구조를 활용한 고급 자바 프로그래밍 기법 숙달
 * 실전 OOP 실습을 통한 객체 지향 설계 역량 강화
 
-## 📝 Curriculum
+### 📝 Curriculum
 
 1. **시작에 앞서**
 2. **클래스 - 첫 번째**
