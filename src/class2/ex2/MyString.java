@@ -1,6 +1,4 @@
-package class2.ex;
-
-import class1.MyTest;
+package class2.ex2;
 
 public class MyString {
     private byte[] string;
@@ -9,7 +7,7 @@ public class MyString {
     }
 
     MyString(MyString rhs) {
-
+        this.deepCopy(rhs);
     }
 
     MyString(String param) {
@@ -34,7 +32,7 @@ public class MyString {
         this.string = param.getBytes().clone();
     }
 
-    public void deepCopy(MyTest rhs) {
-
+    public void deepCopy(MyString rhs) {
+        this.string = rhs.string.clone();
     }
 }
