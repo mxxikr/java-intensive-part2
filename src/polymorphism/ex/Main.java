@@ -17,5 +17,9 @@ public class Main {
         }
 
         shape.render();
+        if(shape instanceof Rectangle)
+            System.out.println("Rectangle class object");
+        else
+            System.out.println("Triangle class object");
     }
 }
