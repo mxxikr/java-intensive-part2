@@ -1,7 +1,5 @@
 package polymorphism.ex;
 
-public class Shape {
-    public void render() {
-
-    }
+public abstract class Shape {
+    abstract public void render();
 }
