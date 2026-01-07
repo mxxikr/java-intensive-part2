@@ -1,4 +1,4 @@
-package class1.inheritance.superSample;
+package inheritance.superSample;
 
 public class Test {
     public Test () {

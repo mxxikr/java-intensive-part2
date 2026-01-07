@@ -1,4 +1,4 @@
-package class1.inheritance.inheritSample;
+package inheritance.inheritSample;
 
 public class MyTest {
     private int parentData = 10;

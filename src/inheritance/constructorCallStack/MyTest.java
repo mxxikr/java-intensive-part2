@@ -1,4 +1,4 @@
-package class1.inheritance.constructorCallStack;
+package inheritance.constructorCallStack;
 
 public class MyTest {
     private int parentData = 10;

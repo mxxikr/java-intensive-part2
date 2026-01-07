@@ -1,4 +1,4 @@
-package class1.inheritance.inheritSample;
+package inheritance.constructorCallStack;
 
 public class Main {
     public static void main(String[] args) {
